@@ -13,7 +13,7 @@
 - 🌍 I'm mostly active within the **Developers community** on Twitter
 - 🌱 Learning all about **.NET** and **BDD**
 - 💬 Ping me about **learning code tips**, **java**, **tests**, **development**, **linux**
-- 📫 Reach me: [linkedin]([https://twitter.com/natanista](https://www.linkedin.com/in/natanista/))
+- 📫 Reach me: [linkedin](https://www.linkedin.com/in/natanista/)
 - ⚡️ Fun fact: I change my linux distro every week
 <!---
 Natanista/Natanista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
