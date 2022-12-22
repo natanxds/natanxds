@@ -11,7 +11,7 @@
 - 🏢 I'm currently working at **Motorola Solutions**
 - ⚙️ I use daily: `.java`, `.cs`
 - 🌍 I'm mostly active within the **Developers community** on Twitter
-- 🌱 Learning all about **Spring Framework**, **Software Architect** and **BDD**
+- 🌱 Learning all about **Spring Framework**, **Software Architecture** and **BDD**
 - 💬 Ping me about **learning code tips**, **java**, **tests**, **development**, **linux**
 - 📫 Reach me: [linkedin](https://www.linkedin.com/in/natanista/)
 - ⚡️ Fun fact: I change my linux distro every week
