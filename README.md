@@ -4,14 +4,14 @@
 
 ##### NOW
 
-- ✨ Improving my .NET skills
-- 🌎 Improving my english
+- ✨ Improving my .NET and Java skills
+- 🌎 Improving my English
 ##### BIO
 
 - 🏢 I'm currently working at **Motorola Solutions**
 - ⚙️ I use daily: `.java`, `.cs`
 - 🌍 I'm mostly active within the **Developers community** on Twitter
-- 🌱 Learning all about **.NET** and **BDD**
+- 🌱 Learning all about **Spring Framework**, **TDD**, **BDD**
 - 💬 Ping me about **learning code tips**, **java**, **tests**, **development**, **linux**
 - 📫 Reach me: [linkedin](https://www.linkedin.com/in/natanista/)
 - ⚡️ Fun fact: I change my linux distro every week
