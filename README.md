@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Improving my .NET and Java skills
+- ✨ Improving my Java skills
 - 🌎 Improving my English
 ##### BIO
 
