@@ -15,8 +15,8 @@
 - 📫 Reach me: [linkedin](https://www.linkedin.com/in/natanista/)
 - ✨ Fun fact: I speak English every day at work
 
-<p align="right">
-  <img src="[https://linktoyourgif.gif](https://media.tenor.com/KywF5hgM9g4AAAAC/cat-coding.gif)" width="300" height="auto">
+<p>
+  <img src="[https://linktoyourgif.gif](https://media.tenor.com/KywF5hgM9g4AAAAC/cat-coding.gif)" width="100" height="auto">
 </p>
 
 
