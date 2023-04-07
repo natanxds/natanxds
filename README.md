@@ -14,7 +14,6 @@
 - 💬 Ping me about **learning code tips**, **java**, **tests**, **development**, **linux**
 - 📫 Reach me: [linkedin](https://www.linkedin.com/in/natanista/)
 - ✨ Fun fact: I speak English every day at work
-<!---
-Natanista/Natanista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![coding gift](https://media.tenor.com/KywF5hgM9g4AAAAC/cat-coding.gif)
+
