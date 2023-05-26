@@ -13,7 +13,7 @@
 - 🌱 Learning all about **.NET/C#/Java/Spring**, **Software Architecture** and **Good Pratices**
 - 💬 Ping me about **learning code tips**, **java**, **tests**, **development**, **linux**
 - 📫 Reach me: [linkedin](https://www.linkedin.com/in/natanista/)
-- ✨ Fun fact: I speak English every day at work
+- ✨ Fun fact: I try to write tests for all my projects 
 
 ![Alt Text](https://raw.githubusercontent.com/ahmetbaglan/ahmetbaglan/main/images/rick.gif)
 
