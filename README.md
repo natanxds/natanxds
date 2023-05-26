@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Backend Developer working in Sao Paulo, Brazil.
+#### I'm a Software Developer working in Sao Paulo, Brazil.
 
 ##### NOW
 
