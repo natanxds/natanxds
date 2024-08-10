@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Improving my java/spring skills
+- ✨ Improving my Angular and Spring skills
 ##### BIO
 
 - 🏢 I'm currently working at **Motorola Solutions**
@@ -15,7 +15,4 @@
 - ✨ Fun fact: I try to write tests for all my projects
 
 ![natanxds's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natanxds&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-![Alt Text](https://raw.githubusercontent.com/ahmetbaglan/ahmetbaglan/main/images/rick.gif)
-
 
