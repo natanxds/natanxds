@@ -50,6 +50,5 @@ Software Engineer based in São Paulo, Brazil, specializing in **microservices a
 
 ## 📫 Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NatanXDS-blue?logo=linkedin&style=flat)](https://linkedin.com/in/natanxds)  
-[![GitHub](https://img.shields.io/badge/GitHub-NatanXDS-black?logo=github&style=flat)](https://github.com/natanxds)  
 [![Twitter](https://img.shields.io/badge/Twitter-CodeWithNatan-blue?logo=twitter&style=flat)](https://twitter.com/CodeWithNatan)  
 
