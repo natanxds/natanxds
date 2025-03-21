@@ -1,16 +1,15 @@
 # Natan Silva  
 
-**Software Engineer | Microservices | Cloud | DevOps**  
+**Software Engineer | Motorola Solutions**  
 
-Focused on **scalable, resilient, and cloud-native applications**. Specialized in **microservices architecture, event-driven systems, and DevOps automation**.  
+Specializing in **microservices architecture, cloud computing, and distributed systems**. Focused on **scalability, resilience, and automation**.  
 
 ## 🔹 Expertise  
 - **Backend:** Java, Spring Boot, Spring Cloud, .NET  
 - **Cloud & DevOps:** Kubernetes, AWS, Docker, Terraform, Linux  
-- **Messaging:** Kafka, RabbitMQ  
+- **Messaging & Streaming:** Kafka, RabbitMQ  
 - **Databases & Caching:** PostgreSQL, MySQL, MongoDB, Redis  
-- **Observability:** Grafana, Prometheus  
-- **Best Practices:** DDD, TDD, BDD, SOLID, Clean Code, CI/CD  
+- **Software Engineering:** DDD, TDD, BDD, SOLID, CI/CD  
 
 ## 🔹 Connect  
-[LinkedIn](https://linkedin.com/in/natanxds) | [X](https://x.com/codewithnatan)  
+[LinkedIn](https://linkedin.com/in/natanxds) | [Twitter](https://twitter.com/CodeWithNatan)  
