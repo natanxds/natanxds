@@ -10,6 +10,7 @@ Specializing in **microservices architecture**, **cloud computing**, and **distr
 ```json
 {
   "backend": ["Java", "Spring Boot"],
+  "frontend": ["React"],
   "cloud_and_devops": ["Kubernetes", "AWS", "Docker", "Terraform", "Linux"],
   "messaging_and_streaming": ["Kafka"],
   "databases_and_caching": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
