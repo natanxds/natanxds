@@ -9,9 +9,9 @@ Specializing in **microservices architecture**, **cloud computing**, and **distr
 ## 🔹 Expertise
 ```json
 {
-  "backend": ["Java", "Spring Boot", "Spring Cloud", ".NET"],
+  "backend": ["Java", "Spring Boot"],
   "cloud_and_devops": ["Kubernetes", "AWS", "Docker", "Terraform", "Linux"],
-  "messaging_and_streaming": ["Kafka", "RabbitMQ"],
+  "messaging_and_streaming": ["Kafka"],
   "databases_and_caching": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
   "software_engineering_best_practices": [
     "DDD", "TDD", "BDD", "SOLID", "Clean Code", "CI/CD", "Automation", "Quality Assurance"
