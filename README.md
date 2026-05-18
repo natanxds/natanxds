@@ -1,6 +1,6 @@
 # Natan Silva  
 
-**Software Engineer** | Motorola Solutions  
+**Software Engineer** | BRQ Digital Solutions
 
 Specializing in **microservices architecture**, **cloud computing**, and **distributed systems**. Focused on **scalability**, **resilience**, **automation**, and **software quality**.
 
